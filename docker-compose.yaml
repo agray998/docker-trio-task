@@ -38,4 +38,3 @@ volumes:
   trio-volume:
 networks:
   trio-net:
-    external: True
