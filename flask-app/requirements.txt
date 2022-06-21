@@ -5,3 +5,4 @@ PyMySQL==0.10.0
 itsdangerous==2.0.1
 markupsafe==2.0.1
 Jinja2==3.0.3
+werkzeug==2.0.3
